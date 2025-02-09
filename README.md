@@ -39,7 +39,7 @@ Durante o desenvolvimento, contei com a ajuda do **ChatGPT**, que me ajudou na r
 
 ### 1️⃣ Clone o Repositório
 ```bash
-git clone https://github.com/seu-usuario/port-scanner.git
+git clone https://github.com/ThiagoOliveira19/port-scanner.git
 cd port-scanner
 ```
 
