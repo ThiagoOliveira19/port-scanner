@@ -7,6 +7,14 @@ Durante o desenvolvimento, contei com a ajuda do **ChatGPT**, que me ajudou na r
 
 ---
 
+## Interface Gráfica 🖥️
+Aqui está um exemplo da interface gráfica do Port Scanner:
+
+![Interface do Port Scanner](interface.png)
+
+
+
+
 ## 📂 Estrutura do Projeto
 ```
 📁 Port Scanner
